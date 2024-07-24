@@ -2,7 +2,10 @@ import os
 import itertools
 import string
 from tqdm import tqdm
-
+import banner2
+import banner1
+banner1.bannercat()
+banner2.bannerteeth()
 def create_wordlist(min_length, max_length, charset, output_dir, chunk_size=10000000):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
