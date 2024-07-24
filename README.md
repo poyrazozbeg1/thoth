@@ -1,6 +1,7 @@
 # thoth
 Wordlist Generator
-## How to Use: tooth1.2.py
+## How to Use:
+* python tooth_1.2.py
 * Enter your minimum lenght
 * Enter your maximum lenght
 * Choose the Option
