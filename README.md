@@ -1,0 +1,2 @@
+# thoth
+Wordlist Generator
